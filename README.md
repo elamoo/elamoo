@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @elamoo
 - 👀 I’m interested in rock climbing, cycling and ...
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on social platforms? just search for elahemootamedi on instagram and MtElahe on twitter
 
 <!---
